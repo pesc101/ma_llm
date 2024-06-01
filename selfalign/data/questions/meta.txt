@@ -1,0 +1,7 @@
+Does this code rely on specific versions of external libraries or modules?
+What is the filename and module name associated with the code snippet?
+Does the file contain any classes or functions?
+How many lines does the code snippet span from start to end?
+Is there any additional metadata or information provided about the code snippet that could be relevant for understanding its context?
+How does the code snippet fit within the broader context of the module or project it belongs to?
+Has the code snippet been tested, and if so, what testing methodologies were employed?

@@ -1,0 +1,32 @@
+What is the name of the function/ class?
+Which parameter does the function/ class has?
+Which return type does the function/ class has?
+Is it a Function or Class or Method?
+Give me the code for the function <<name>>?
+What functionality does this code aim to achieve?
+What are the expected outputs or outcomes of running this code?
+What variables are used in this code, and how are they defined?
+What data structures are utilized, and why were they chosen?
+How does the code control the flow of execution?
+Are there conditional statements or loops, and how do they operate?
+How does the code handle errors or unexpected situations?
+Are there mechanisms in place to catch exceptions or problematic scenarios?
+How might you improve the efficiency or performance of this code?
+Is this code scalable for larger datasets or more complex scenarios?
+How easy would it be to maintain or extend this code in the future?
+Is the code adequately documented with comments or docstrings?
+Are there areas where additional documentation would be beneficial?
+Does this code adhere to best practices and coding standards?
+Are there any deviations from commonly accepted conventions?
+How are variables initialized and assigned values in the code?
+Are there any variable naming conventions followed in the code?
+How are comments utilized within the code? Are there any comments explaining specific lines or blocks of code?
+What are the data types used for the variables, and how are they declared?
+Are there any special characters or symbols used in the code, and what is their significance?
+How are indentation and whitespace used to structure the code?
+How are control structures such as loops and conditional statements written and formatted?
+Does the code adhere to a specific coding style guide or convention (e.g., PEP 8 for Python)?
+Are there any language-specific syntactical constructs or features utilized in the code (e.g., list comprehensions, lambda functions, decorators)?
+How are function definitions and method calls written and formatted?
+Are there any language-specific keywords or reserved words used in the code, and how are they employed?
+How are error handling and exception mechanisms implemented in the code?
